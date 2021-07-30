@@ -1,4 +1,5 @@
 # mypaper
+Elena Bencurova
 test for the software carpentry
 
 ## Introduction
