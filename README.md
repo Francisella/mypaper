@@ -1,6 +1,7 @@
 # mypaper
 Elena Bencurova
 test for the software carpentry
+more information is here .
 
 ## Introduction
 Introduction is very important.
